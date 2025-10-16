@@ -5,14 +5,18 @@
     "name": "SSV334 (Minecraft 1.20.1)",
     "description": "SSV334 Running Minecraft 1.20.1 (Forge v47.4.0)",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-    "address": "localhost:25565",
+    "address": "wickedgang.m-c.k:25565",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
     "mainServer": false,
-    "autoconnect": false
+    "autoconnect": true,
+	    "server": {
+		  "ip": "wickedgang.m-c.k",
+		  "port": 25565
+		  },
   },
   "forge": {
     "version": "47.4.0"

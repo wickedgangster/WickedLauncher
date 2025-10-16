@@ -22,7 +22,7 @@
       },
       "mainServer": false,
       "autoconnect": true,
-	  "server": {
+	    "server": {
 		  "ip": "wickedgang.m-c.k",
 		  "port": 25565
 		  },
